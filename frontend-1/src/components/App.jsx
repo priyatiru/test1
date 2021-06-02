@@ -48,7 +48,7 @@ export default class App extends Component {
       <div className="container">
         <img src="logo.png" alt="" class="center" width="200" height="200"></img>
         <h1>
-          Welcome!
+          Welcome to TeamPact App!
            {/* {contact.fName} {contact.lName} ! */}
           <br></br>
         </h1>
