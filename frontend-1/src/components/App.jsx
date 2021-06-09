@@ -53,7 +53,7 @@ export default class App extends Component {
           <br></br>
         </h1>
         <p>This app is under construction and our team is currently working on it.
-            Please bear in mind that some functions may not work properly.
+            Please bear in mind that some functions may not work properly. We will have the updated version soon. :)
             <br></br>
             <br></br>
             <br></br>
