@@ -1,13 +1,13 @@
 import React, { Component } from "react";
-import { Route,Router, Switch} from "react-router-dom";
+import { Route,Router,Switch} from "react-router-dom";
     
    
 
-import About from "./components/About";
-import Contact from "./components/Contact";
-import dashboard from "./components/dashboard";
+import About from "./About";
+import Contact from "./Contact";
+import dashboard from "./dashboard";
 import App from "./../src/components/App";
-import history from './components/history';
+import history from './history';
 
 export default class Routes extends Component {
     render() {
