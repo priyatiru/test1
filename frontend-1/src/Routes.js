@@ -3,11 +3,11 @@ import { Route,Router, Switch} from "react-router-dom";
     
    
 
-import About from "./../src/About";
-import Contact from "./Contact";
-import dashboard from "./dashboard";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import dashboard from "./components/dashboard";
 import App from "./../src/components/App";
-import history from './history';
+import history from './components/history';
 
 export default class Routes extends Component {
     render() {
