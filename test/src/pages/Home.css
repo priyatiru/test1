@@ -1,0 +1,20 @@
+
+.h1{
+    margin-top: -280px;
+    margin-left: 80px;
+    font-size: 36px;
+    text-align: justify;
+}
+
+.subHeading{
+    text-align: center;
+    align-items: center;
+    font-size: 24px;
+    margin-top: -40px;
+    margin-left: -80px;
+    background-color: #E8EEF8;
+    border: solid #E8EEF8;
+    font-weight: lighter;
+    width: 122%;
+}
+
